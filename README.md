@@ -1,16 +1,20 @@
-### Hi there 👋
+# Gaurav Chouhan 😃
+Sr. Software Developer | Azure Cloud 
 
-<!--
-**PedroPovoleri/PedroPovoleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧐 About
+Today I working with my IoT project called Homie. A monitoring patients.
 
-Here are some ideas to get you started:
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **Angular**
+- Backend development using **ASP.NET Core, Azure Datafactory, Python**
+- Robust full-stack system design implementation
+- Desktop application development using **UWP, WPF or WinForms**
+- Creating scalable cloud architecture using **Microsoft Azure**
+- Project Management and CD/CI using **Azure DevOps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- LinkedIn - [Pedro Povoleri](https://in.linkedin.com/in/pedropovoleri)
+
+---
+⭐️ From [gc-codes](https://github.com/gc-codes)
