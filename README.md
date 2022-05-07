@@ -9,7 +9,6 @@ Talk to me about
 - Front-end development using **Angular**
 - Backend development using **ASP.NET Core, Azure Datafactory, Python**
 - Robust full-stack system design implementation
-- Desktop application development using **UWP, WPF or WinForms**
 - Creating scalable cloud architecture using **Microsoft Azure**
 - Project Management and CD/CI using **Azure DevOps**
 
