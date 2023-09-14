@@ -26,5 +26,3 @@ I'm a jack-of-all-trades when it comes to tech:
 ## 📫 Let's Connect
 - LinkedIn - [Pedro Povoleri](https://in.linkedin.com/in/pedropovoleri)
 
----
-⭐️ From [gc-codes](https://github.com/gc-codes)
